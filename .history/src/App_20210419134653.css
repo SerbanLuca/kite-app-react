@@ -1,0 +1,23 @@
+*
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+form
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.username-text
+{
+  margin: 10px;
+}
+
+.password-text
+{
+  margin: 10px;
+}
